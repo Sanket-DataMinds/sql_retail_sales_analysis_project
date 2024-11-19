@@ -24,6 +24,8 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ```sql
 create database Sales_Project;
+
+--  to get the access of Database
 use Sales_Project;
 
 create table sales
